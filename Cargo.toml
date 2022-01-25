@@ -8,5 +8,5 @@ edition = "2018"
 [dependencies]
 
 [lib]
-crate-type=["rlib", "cdylib"]
+crate-type=["cdylib"]
 name = "jvm"
